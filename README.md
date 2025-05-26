@@ -47,7 +47,6 @@
 ## Features
 
 - Dark Mode
-- Currency Selection with Intl API [https://codepen.io/maciekt07/pen/zYVdPLy](https://codepen.io/maciekt07/pen/zYVdPLy)
 - Profile Picture Upload
 - JWT Authentication
 
