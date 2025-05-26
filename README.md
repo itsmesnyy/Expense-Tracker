@@ -90,7 +90,6 @@ cd ..
 npm run dev
 ```
 
-<img src="screenshots/console.png" width="400px" />
 
 The server will start running on port 8000.
 
